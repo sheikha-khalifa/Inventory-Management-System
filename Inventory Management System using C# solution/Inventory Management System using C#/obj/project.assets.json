@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Dell\\.nuget\\packages\\": {}
+    "C:\\Users\\my pc\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dell\\Desktop\\Homework 1 – Week2\\Inventory Management System using C# solution\\Inventory Management System using C#\\Inventory Management System using C#.csproj",
+      "projectUniqueName": "C:\\Inventory-Management-System\\Inventory Management System using C# solution\\Inventory Management System using C#\\Inventory Management System using C#.csproj",
       "projectName": "Inventory Management System using C#",
-      "projectPath": "C:\\Users\\Dell\\Desktop\\Homework 1 – Week2\\Inventory Management System using C# solution\\Inventory Management System using C#\\Inventory Management System using C#.csproj",
-      "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dell\\Desktop\\Homework 1 – Week2\\Inventory Management System using C# solution\\Inventory Management System using C#\\obj\\",
+      "projectPath": "C:\\Inventory-Management-System\\Inventory Management System using C# solution\\Inventory Management System using C#\\Inventory Management System using C#.csproj",
+      "packagesPath": "C:\\Users\\my pc\\.nuget\\packages\\",
+      "outputPath": "C:\\Inventory-Management-System\\Inventory Management System using C# solution\\Inventory Management System using C#\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\my pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
